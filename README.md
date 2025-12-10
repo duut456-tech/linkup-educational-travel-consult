@@ -3,7 +3,7 @@
 Professional website for Linkup Educational & Travel Consult - A consultancy service for study abroad and educational travel programs.
 
 ## Live Website
-https://YOUR-USERNAME.github.io/linkup-educational-travel
+https://linkupconsult.com
 
 ## Features
 - Responsive design for all devices
