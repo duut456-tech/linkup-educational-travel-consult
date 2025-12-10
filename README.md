@@ -15,4 +15,4 @@ https://YOUR-USERNAME.github.io/linkup-educational-travel
 
 ## Contact
 Email: info@linkupconsult.com
-Phone: +1 (555) 123-4567
+Phone: +233(0)257426293
